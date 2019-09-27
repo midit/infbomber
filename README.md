@@ -4,17 +4,29 @@
 Как правильно установить СНАЧАЛА ПРОПИСЫВАЕМ ВСЕ ЭТО В Termux, а потом уже исправляем проблему с "64 бит"
 
 apt update
+
 apt upgrade
+
 pkg install git
+
 pkg install tsu
+
 pkg install python
+
 pkg install python2
+
 pkg install openssh
+
 git clone https://https://github.com/eden13378/infbomber
+
 cd infbomber
+
 tsu
+
 chmod +x ./infbomber
+
 ./tron
+
 Проблема с 64 бит
 
 $ su

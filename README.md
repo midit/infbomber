@@ -25,7 +25,8 @@ tsu
 
 chmod +x ./infbomber
 
-./tron
+./infbomber
+
 
 Проблема с 64 бит
 
